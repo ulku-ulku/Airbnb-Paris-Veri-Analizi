@@ -12,7 +12,5 @@ Identify which room types and pricing strategies maximize occupancy and revenue.
 - Premium pricing + full homes generate most revenue
 
 ## 🛠 Tech Stack
-Python • Pandas • SQL • Data Visualization
+SQL • Data Visualization
 
-## 🎥 Presentation
-[View slides](presentation.pdf)
